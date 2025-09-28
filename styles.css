@@ -170,6 +170,9 @@ padding: 0;
 	padding: 0;
 	 display: grid; 
     margin: 0;
+	  grid-template-columns: 2fr 1fr;    
+  grid-template-rows: 100px 300px 100px; 
+  gap: 10px; 
 
 
 }
