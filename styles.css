@@ -78,10 +78,9 @@ padding: 0;
 
 #flex-section3 .box {
 	
+
 	padding: 0;
 	display: flex;
-	flex-direction: row;
-    justify-content: space-evenly;
     margin: 0;
 	list-style: none;
 	justify-content: center;   
@@ -91,13 +90,15 @@ padding: 0;
 }
 
 #flex-section3 .tags ul {
+	
 	padding: 0;
 	display: flex;
-    justify-content: space-evenly;
     margin: 0;
-	list-style: none;
-    flex-wrap: wrap;            
-           
+    flex-wrap: wrap;    
+    gap: 5px;            
+    list-style: none;    
+   
+	
   
 	
 	
@@ -105,6 +106,18 @@ padding: 0;
 }
 
 /* end Flexbox Part 3 */
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -172,6 +185,8 @@ padding: 0;
 	  grid-template-columns: 2fr 1fr;    
   grid-template-rows: 100px 300px 100px; 
   gap: 10px; 
+  
+  
 
 
 }
