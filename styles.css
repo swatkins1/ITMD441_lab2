@@ -17,22 +17,64 @@
 /* Flexbox Part 2 */
 
 #flex-section2 ul {
-
+padding: 0;
+	display: flex;
+	flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0;
+	list-style: none;
+	
+	
 }
 
 #flex-section2 li {
+	
+	padding: 0;
+	display: flex;
+	flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0;
+	list-style: none;
 
 }
 
 #flex-section2 .item1 {
+	
+	padding: 0;
+	display: flex;
+	flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0;
+	list-style: none;
 
 }
 
 #flex-section2 .item2 {
 
+
+padding: 0;
+	display: flex;
+	flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0;
+	list-style: none;
+	
+	
+	
 }
 
 #flex-section2 .item3 {
+	
+	
+	padding: 0;
+	display: flex;
+	flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0;
+	list-style: none;
+	
+	
+	
 
 }
 
@@ -42,10 +84,27 @@
 /* Flexbox Part 3 */
 
 #flex-section3 .box {
+	
+	padding: 0;
+	display: flex;
+	flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0;
+	list-style: none;
+	
+	
 
 }
 
 #flex-section3 .tags ul {
+	padding: 0;
+	display: flex;
+	flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0;
+	list-style: none;
+	
+	
 
 }
 
@@ -55,6 +114,14 @@
 /* Grid Part 1 */
 
 #grid-section1 .grid {
+	padding: 0;
+	display: flex;
+	flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0;
+	list-style: none;
+	
+	
 
 }
 
@@ -64,10 +131,23 @@
 /* Grid Part 2 */
 
 #grid-section2 .gridboxblue {
-
+padding: 0;
+	display: flex;
+	flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0;
+	list-style: none;
 }
 
 #grid-section2 .gridboxred {
+	
+	
+	padding: 0;
+	display: flex;
+	flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0;
+	list-style: none;
 
 }
 
@@ -77,22 +157,59 @@
 /* Grid Part 3 */
 
 #grid-section3 .grid {
+	
+	padding: 0;
+	display: flex;
+	flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0;
+	list-style: none;
 
 }
 
 #grid-section3 .box1 {
+	
+	padding: 0;
+	display: flex;
+	flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0;
+	list-style: none;
 
 }
 
 #grid-section3 .box2 {
-
+padding: 0;
+	display: flex;
+	flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0;
+	list-style: none;
+	
+	
 }
 
 #grid-section3 .box3 {
+	
+	
+	padding: 0;
+	display: flex;
+	flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0;
+	list-style: none;
 
 }
 
 #grid-section3 .box4 {
+	padding: 0;
+	display: flex;
+	flex-direction: row;
+    justify-content: space-evenly;
+    margin: 0;
+	list-style: none;
+	
+	
 
 }
 
