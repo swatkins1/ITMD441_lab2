@@ -224,7 +224,7 @@ padding: 0;
 	color: #000;
 	padding: 20px;
 	text-decoration: none;
-	transition: all 5s ease;
+	transition: all 3s ease;
 
 
 }
@@ -232,7 +232,7 @@ padding: 0;
 #transition-section .box a:hover {
 	background-color: #cc0000;
 	color: #fff;
-	transition: all 5s ease;
+	transition: all .5s ease;
 
 
 }
