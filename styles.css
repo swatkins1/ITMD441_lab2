@@ -143,9 +143,9 @@ padding: 0;
 /* Grid Part 2 */
 
 #grid-section2 .gridboxblue {
-/* padding: 0;
+ padding: 0;
 	 display: grid; 
-    margin: 0; */
+    margin: 0; 
 
 	
 	  grid-column: 3 / 4;  
@@ -157,9 +157,9 @@ padding: 0;
 }
 
 #grid-section2 .gridboxred {
-	/* padding: 0;
+	 padding: 0;
 	 display: grid; 
-    margin: 0; */
+    margin: 0; 
 	
 	 grid-column: 1 / 3;   
   grid-row: 2 / 3;      
